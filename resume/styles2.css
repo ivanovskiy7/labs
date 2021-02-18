@@ -187,7 +187,7 @@ color: #4F4F4F;
 	width:474px;
 	height:40px;
 	position:absolute;
-	left:117px;
+	left:410px;
 	top:550px;
 	font-family:Roboto Slab;
 	text-align:left;
@@ -201,7 +201,7 @@ color: #4F4F4F;
 	width:449px;
 	height:40px;
 	position:absolute;
-	left:350px;
+	left:510px;
 	top:632px;
 	font-family:Roboto Slab;
 	text-align:left;
@@ -215,7 +215,7 @@ color: #4F4F4F;
 	width:480px;
 	height:40px;
 	position:absolute;
-	left:397px;
+	left:660px;
 	top:710px;
 	font-family:Roboto Slab;
 	text-align:left;
@@ -394,7 +394,7 @@ color: #4F4F4F;
 	width:518px;
 	height:53px;
 	position:absolute;
-	left:780px;
+	left:610px;
 	top:1100px;
 	font-family:Roboto Slab;
 	text-align:right;
@@ -415,4 +415,86 @@ color: #4F4F4F;
 	font-size:40px;
 	letter-spacing:3;
 	line-height:undefined;
+}
+@media (max-width: 2530px){
+	body{
+		width:420px;
+	}
+	#line1{
+		left:100px;
+	}
+	#circle1 { 
+		left:70px;
+	}
+	#circle2 { 
+		left:70px;
+	}
+	#circle3 { 
+		left:70px;
+	}
+	#circle4 { 
+		left:70px;
+	}
+	#phone_img{ 
+		left:90px;
+	}
+	#mail_img{ 
+		left:90px;
+	}
+	#web_img { 
+		left:92px;
+	}
+	#address_img { 
+		left:91px;
+	}
+	#phone { 
+		left:170px;
+	}
+	#mail { 
+		left:170px;
+	}
+	#comp { 
+		left:170px;
+	}
+	#address { 
+		left:170px;
+	}
+	#name { 
+		left:500px;
+	}
+	#prof { 
+		left:660px;
+	}	
+	#ep { 
+		left:670px;
+		line-height: 90%;
+		width: 890px;
+	}
+	#group15 { 
+		left: -70px;
+	}	
+	#experience1 { 
+		left:-200px;
+	}	
+	#ceo7 { 
+		left:610px;
+	}	
+	#g70_text { 
+		width:970px;
+	}
+	#rectangle34 { 
+		width:770px;
+	}
+	#a1{
+		left: 1300px;
+		top: 2700px;
+	}
+	#a4_1 { 
+		overflow:hidden;
+		background-color:rgba(255, 255, 255, 1);
+		opacity:1;
+		width:1565px;
+		height:2900px;
+		position:absolute;
+	}
 }
